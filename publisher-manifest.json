@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6afbe1e1f742708f115ad5c6",
+  "owner": "kcmsskxse",
+  "repo": "page-b167ca012516aa631916234b",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b167ca012516aa631916234b",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "19708bbb0929a9f51c2241a55d4034b2f46373a0acbb67e63a9dabf136cbb9ec",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转为您提供专业的AI加速解决方案，提供基础版、旗舰版和团队版多种套餐。立即访问官网下载客户端，享受高速稳定的GPT中转服务。",
+          "AI_DESCRIPTION": "GPT中转为您提供专业的AI加速解决方案，提供基础版、旗舰版和团队版多种套餐。立即访问官网下载客户端，享受高速稳定的GPT中转服务。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n    :root {\n      --ivory: #FAF6F3;\n      --forest: #228B22;\n      --text: #333333;\n    }\n    body {\n      font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n      line-height: 1.6;\n      color: var(--text);\n      background-color: var(--ivory);\n      margin: 0;\n      padding: 0;\n    }\n    header {\n      background: var(--forest);\n      color: white;\n      padding: 1rem 0;\n      text-align: center;\n    }\n    h1 {\n      font-size: 2.5rem;\n      margin: 0;\n      color: white;\n    }\n    .container {\n      max-width: 1200px;\n      margin: 0 auto;\n      padding: 2rem 1rem;\n    }\n    .section {\n      margin-bottom: 3rem;\n    }\n    h2 {\n      color: var(--forest);\n      font-size: 1.8rem;\n      border-bottom: 2px solid var(--forest);\n      padding-bottom: 0.5rem;\n      margin-bottom: 1.5rem;\n    }\n    .plans {\n      display: flex;\n      flex-wrap: wrap;\n      gap: 1.5rem;\n      justify-content: center;\n    }\n    .plan {\n      background: white;\n      border: 2px solid var(--forest);\n      border-radius: 8px;\n      padding: 1.5rem;\n      width: 100%;\n      max-width: 300px;\n      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\n      position: relative;\n    }\n    .plan.featured {\n      border-color: var(--forest);\n    }\n    .plan.featured::after {\n      content: \"推荐\";\n      position: absolute;\n      top: -10px;\n      right: 20px;\n      background: var(--forest);\n      color: white;\n      padding: 4px 12px;\n      border-radius: 20px;\n      font-size: 0.8rem;\n    }\n    .plan h3 {\n      margin-top: 0;\n      font-size: 1.5rem;\n      color: var(--forest);\n    }\n    ul {\n      list-style: none;\n      padding: 0;\n    }\n    li {\n      padding: 0.5rem 0;\n      border-bottom: 1px solid #eee;\n    }\n    li:last-child {\n      border-bottom: none;\n    }\n    details {\n      margin-bottom: 1rem;\n      border: 1px solid #ddd;\n      border-radius: 6px;\n      overflow: hidden;\n    }\n    summary {\n      padding: 1rem;\n      font-weight: bold;\n      cursor: pointer;\n      background: var(--ivory);\n      list-style: none;\n    }\n    details[open] summary {\n      background: #f0f0f0;\n    }\n    p {\n      margin: 0.5rem 0;\n    }\n    footer {\n      background: #222222;\n      color: #cccccc;\n      text-align: center;\n      padding: 2rem 1rem;\n    }\n    footer a {\n      color: #aaa;\n      text-decoration: none;\n      margin: 0 8px;\n    }\n    @media (max-width: 768px) {\n      h1 {\n        font-size: 2rem;\n      }\n      .plans {\n        flex-direction: column;\n      }\n      .plan {\n        width: 100%;\n      }\n    }\n    </style>\n\n\n    <header>\n        <div class=\"container\">\n            <h1>GPT中转</h1>\n        </div>\n    </header>\n    <main>\n        <div class=\"container\">\n            <section class=\"section\" id=\"intro\">\n                <h2>品牌简介</h2>\n                <p>GPT中转是一款专为大语言模型用户优化的高速中转加速服务。提供稳定、低延迟的节点池，帮助用户高效访问GPT系列服务，提升对话响应速度和稳定性。</p>\n            </section>\n            <section class=\"section\" id=\"scenarios\">\n                <h2>使用场景</h2>\n                <ul>\n                    <li>个人用户：日常AI对话加速</li>\n                    <li>团队用户：企业级多设备部署</li>\n                    <li>内容创作者：优化网络环境</li>\n                    <li>跨境用户：稳定节点解锁限制</li>\n                </ul>\n            </section>\n            <section class=\"section\" id=\"guide\">\n                <h2>操作说明</h2>\n                <ol>\n                    <li>访问官网，选择合适套餐并完成在线支付</li>\n                    <li>在下载页面获取官方客户端</li>\n                    <li>下载并安装客户端</li>\n                    <li>导入订阅链接并连接可用节点</li>\n                </ol>\n            </section>\n            <section class=\"section\" id=\"plans\">\n                <h2>选择您的套餐</h2>\n                <div class=\"plans\">\n                    <div class=\"plan\">\n                        <h3>基础版</h3>\n                        <p>¥15/月</p>\n                        <p>按年付仅需 ¥150/年</p>\n                        <ul>\n                            <li>每月 100GB 极速流量</li>\n                            <li>支持 3 台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                    </div>\n                    <div class=\"plan featured\">\n                        <h3>旗舰版</h3>\n                        <p>¥35/月</p>\n                        <p>按年付仅需 ¥350/年</p>\n                        <ul>\n                            <li>每月 300GB 极速流量</li>\n                            <li>支持 5 台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC 专线游戏加速优化</li>\n                            <li>7x24 优先工单支持</li>\n                        </ul>\n                    </div>\n                    <div class=\"plan\">\n                        <h3>团队版</h3>\n                        <p>¥85/月</p>\n                        <p>按年付仅需 ¥850/年</p>\n                        <ul>\n                            <li>每月 1000GB 极速流量</li>\n                            <li>支持 20 台设备同时在线</li>\n                            <li>VIP 专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </section>\n            <section class=\"section\" id=\"faq\">\n                <h2>常见问题</h2>\n                <details>\n                    <summary>什么是GPT中转？</summary>\n                    <p>GPT中转是一款专为GPT用户优化的代理加速平台，提供多种高速节点，帮助用户稳定访问AI服务。</p>\n                </details>\n                <details>\n                    <summary>如何下载客户端？</summary>\n                    <p>在官网的下载页面即可获取官方客户端，支持Windows、macOS、移动端等平台。</p>\n                </details>\n                <details>\n                    <summary>不同套餐有什么区别？</summary>\n                    <p>基础版适合个人，流量和设备支持有限；旗舰版提供更多流量和优化；团队版适合企业，有专属服务。</p>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <p>支持多平台客户端，包括PC、手机、平板等多种设备同时在线。</p>\n                </details>\n                <details>\n                    <summary>如何使用节点？</summary>\n                    <p>下载客户端后，导入订阅链接，选择可用节点连接即可。</p>\n                </details>\n                <details>\n                    <summary>如何订阅套餐？</summary>\n                    <p>访问官网，选择套餐后进行在线支付，支付成功后立即获取订阅信息。</p>\n                </details>\n            </section>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <div class=\"container\">\n            <p>© 2024 GPT中转 保留所有权利</p>\n            <p>友情链接：<a href=\"#\">其他优质服务</a></p>\n            <p>网站地图：<a href=\"#intro\">品牌简介</a> | <a href=\"#scenarios\">使用场景</a> | <a href=\"#guide\">操作说明</a> | <a href=\"#plans\">套餐选择</a> | <a href=\"#faq\">常见问题</a></p>\n        </div>\n    </footer>\n\n",
+          "hash": "e26449c22bf789701007e2e5c7688ba61084e9c9a02f84ad390ab09e93c5c0ce",
+          "seo": {
+            "title": "GPT中转 - 专业AI加速器 | 客户端下载与官网",
+            "keywords": "GPT中转,GPT加速,AI加速器,GPT中转节点,客户端下载,机场订阅,VPN加速器",
+            "description": "GPT中转为您提供专业的AI加速解决方案，提供基础版、旗舰版和团队版多种套餐。立即访问官网下载客户端，享受高速稳定的GPT中转服务。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hxvmvhoo.cn",
+    "host": "p-c7f9a1b73f.hxvmvhoo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c5126c23d83678e49ab8e5ef7274c51d984099b1b93febe4b0dfcdffd8fe4e8d",
+    "sitemap.xml": "1faa83140a48aa4b6363dd6c8a2c7cd14e6856a87dd8dc832120b44ebf6921e5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a516b4e87a17645d3f517e53e7bca4043e378f13424ed9e13213999ed46ca0f6",
+    "robots.txt": "4e944e28c27394b6c014fbe36b7c90379fe0df57705290c870c303a6209cb528",
+    "223d8db3ebda6e167233cf50ecc34a7b.txt": "32c03abd5641890451143d62020ab3b21de284f3419b5e25d8be55c787f2a612"
+  },
+  "revision": "c601baf08d31800156883a4aa6e4251ba52c0ff491b19721aa0a402dccb53134"
+}
